@@ -1,7 +1,7 @@
 h1{
     font-size: 60px;
 }
-h2{
+p{
     font-size: 30px;
 }
 body{
@@ -14,16 +14,17 @@ body{
 .flexible-part{
     display: flex;
     margin-bottom: 120px;
+    border-radius:20px;
 }
 .half-part{
     width: 100%;
 }
 .half-part image{
-    width:50%;
+    width:70%;
 }
 .food-item{
     width: 550px;
-    height: 450px;
+    height: 550px;
     padding-left: 2%;
 }
 .order-button{
