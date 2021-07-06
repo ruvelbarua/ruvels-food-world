@@ -19,7 +19,10 @@ section{
 }
 .half-part image{
     width:50%;
-    padding: 10%;
+}
+.food-item{
+    width: 650px;
+    height: 450px;
 }
 .order-button{
     color: white;
