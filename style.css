@@ -13,14 +13,14 @@ body{
 }
 .flexible-part{
     display: flex;
-    margin-bottom: 120px;
-    border-radius:20px;
+    margin-bottom: 120px; 
 }
 .half-part{
     width: 100%;
+    border-:50px;
 }
 .half-part image{
-    width:70%;
+    width: 80%;
 }
 .food-item{
     width: 550px;
@@ -37,10 +37,11 @@ body{
 }
 .vegitables{
     text-align: center;
+    border-width: 50px;
 }
 .pic-food{
-    width: 150px;
-    height: 100px;
+    width: 210px;
+    height: 120px;
     padding-left: 2%;
 }
 .like-viewrs{
