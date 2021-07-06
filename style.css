@@ -6,23 +6,25 @@ h2{
 }
 body{
     font-family: 'Roboto', sans-serif;
-    margin: 0;
+    margin: 50px;
 }
 .color-identifyer{
     color: orange;
 }
-section{
+.flexible-part{
     display: flex;
+    margin-bottom: 120px;
 }
 .half-part{
-    width: 50%;
+    width: 100%;
 }
 .half-part image{
     width:50%;
 }
 .food-item{
-    width: 650px;
+    width: 550px;
     height: 450px;
+    padding-left: 2%;
 }
 .order-button{
     color: white;
@@ -30,5 +32,10 @@ section{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
     padding: 15px 45px;
-    border-radius:20px;
+    border-radius:40px;
+}
+.pic-food{
+    width: 150px;
+    height: 100px;
+    padding-left: 2%;
 }
