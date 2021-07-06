@@ -34,6 +34,9 @@ body{
     padding: 15px 45px;
     border-radius:40px;
 }
+.vegitables{
+    text-align: center;
+}
 .pic-food{
     width: 150px;
     height: 100px;
@@ -44,9 +47,10 @@ body{
     margin-bottom: 150px;
 }
 .like-viewrs{
-    text-align: center;
     display: flex;
-    margin-bottom: 120px;
+    width: 600px;
+    height: 350px;
+    padding-left: 30%;
 }
 .black-box{
     text-align: center;
