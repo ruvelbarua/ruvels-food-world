@@ -6,6 +6,7 @@ h2{
 }
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 .color-identifyer{
     color: orange;
@@ -21,5 +22,10 @@ section{
     padding: 10%;
 }
 .order-button{
-    
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 15px 45px;
+    border-radius:20px;
 }
