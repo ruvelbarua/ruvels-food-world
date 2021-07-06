@@ -39,3 +39,23 @@ body{
     height: 100px;
     padding-left: 2%;
 }
+.one-third-width{
+    display: flex;
+    margin-bottom: 150px;
+}
+.like-viewrs{
+    text-align: center;
+    display: flex;
+    margin-bottom: 120px;
+}
+.black-box{
+    text-align: center;
+    border: solid;
+    background-color: black;    
+}
+.text-color{
+    color: blanchedalmond;
+}
+footer{
+    text-align: center;
+}
